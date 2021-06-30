@@ -1,2 +1,5 @@
 def hello ():
-print ("Hello world")
+i=3
+j=4
+z=i+j
+print ("new number:" z)
